@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller builds
+build/
+dist/
+*.spec
+build_*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# AI / agent config (do not upload)
+.agents/
+*.log
+__pycache__/
